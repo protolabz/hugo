@@ -1,4 +1,11 @@
 ---
 label: Protolabzharjit
 hide_body: false
-fields: []
+fields:
+- name: home
+  type: include
+  config: {}
+  template: protolabzharjit
+  label: Home
+  hidden: false
+  description: This is for testing
